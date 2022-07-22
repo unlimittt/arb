@@ -1,0 +1,4 @@
+# Project exclude paths
+/docker/bsc/bin/
+/docker/db/data/
+/docker/eth/data/
